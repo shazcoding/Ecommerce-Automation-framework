@@ -18,7 +18,7 @@ WebDriver driver = new ChromeDriver();
 
 driver.get("https://www.saucedemo.com");
 
-System.out.println("Website Opened");
+System.out.println("Website Opened updated");
 
 driver.quit();
 }
